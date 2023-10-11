@@ -10,3 +10,5 @@
 ```
 node upload.js
 ```
+
+- **don't forget to remove files in myImages folder after successfully done uploading.**
